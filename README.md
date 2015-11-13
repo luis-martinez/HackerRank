@@ -10,4 +10,6 @@
 - Solve Me Second
 - Simple Array Sum
 - A Very Big Sum
+- Diagonal Difference
+- Plus Minus
 
