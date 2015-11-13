@@ -1,4 +1,4 @@
-## Solutions to HackerHank challenges
+## Solutions to HackerRank challenges
 
 ###### <https://www.hackerrank.com>
 
