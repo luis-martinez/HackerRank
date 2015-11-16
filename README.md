@@ -12,4 +12,6 @@
 - A Very Big Sum
 - Diagonal Difference
 - Plus Minus
+- Staircase
+- Time Conversion
 
